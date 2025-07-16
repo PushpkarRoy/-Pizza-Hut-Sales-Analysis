@@ -69,7 +69,7 @@ This project showcases how SQL can be used not only to manipulate and extract da
 ## 🙋‍♂️ About Me
 
 **Pushpkar Roy**  
-🧠 Aspiring Data Analyst | SQL • Power BI • Excel • Python  
+🧠 Aspiring Data Analyst | SQL • Power BI • Excel • Python 
 🔗 [LinkedIn](https://www.linkedin.com/in/pushpkar-roy)  
 💻 [GitHub](https://github.com/PushpkarRoy)  
 📧 Pushpkarroy880@gmail.com  
